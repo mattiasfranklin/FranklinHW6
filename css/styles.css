@@ -1,0 +1,21 @@
+* {
+  font-family: 'Calibri';
+  }
+
+.divbyfour {
+    background-color: lightblue;
+}
+
+table{
+  border-collapse: collapse;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
+
+.sum {
+  color: red;
+  font-weight: bold;
+}
